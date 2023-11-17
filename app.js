@@ -19,5 +19,3 @@ async function fetchRedditSentiment(date = '') {
 }
 
 fetchRedditSentiment();
-
-fetchRedditSentiment('2022-04-03');
